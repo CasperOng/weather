@@ -9,7 +9,7 @@
     </transition>
     <WeatherAnimate />
     <div class="footer-text">
-      <a href="https://google.com/" target="_blank" class="link">
+      <a href="https://github.com/casperong/weather" target="_blank" class="link">
         <GithubIcon size="1x"></GithubIcon>
         <span>GitHub</span>
       </a>
