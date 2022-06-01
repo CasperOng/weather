@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "serve -s dist"
+run = "npm run build"
